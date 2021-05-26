@@ -60,3 +60,5 @@ if (goes_to_party_often == True) and (age >= 18):
 else:
     print("seems normal to me")
 
+
+# ======================= END of 02_if_statements =======================

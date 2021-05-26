@@ -6,7 +6,7 @@
 # String:
 # a String is list of characters. Also called a text.
 # starts and ends with "text"
-string = "ist text oder eine Zeichenkette"
+string = "this is a string"
 
 # boolean:
 # a boolean can either be true or false
@@ -64,7 +64,7 @@ print("string multiply with int:\n", string_mul_int)
 user_in = input("your input: ")
 print("raw input type is:", type(user_in))
 
-# convertieren in integer
+# convert string into integer
 user_in_int = int(user_in)
 print("convert input to int():", type(user_in_int))
 
@@ -72,3 +72,6 @@ print("convert input to int():", type(user_in_int))
 # user_in_float = float(user_in)
 # print(type(user_in_float))
 # doenst work
+
+
+# ======================== End of 01_Variables ====================

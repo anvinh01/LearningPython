@@ -57,4 +57,11 @@ for Data_point in Data:
     print("Data:", Data_point)
 # a way to under stand is that "for Data_point = each element in Data:"
 
+# ============ String as Array ===================
+# the same is also possible in strings, as they are also Arrays with characters
+# ["H", "e", "l", "l", "o", ...., "d"]
+print("for Loop through Word ('Hello World'):")
+Word = "Hello World"
+for character in Word:
+    print("Char in Word:", character)
 

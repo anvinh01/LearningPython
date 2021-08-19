@@ -1,6 +1,6 @@
 DE_EN = {"mein": "my", "name": "name", "ist": "is"}
 
-eingabe = "Mein Name ist An"
+eingabe = "Dies ist eine Eingabe"
 # eingabe = eingabe.lower()
 
 def to_lower(text):
